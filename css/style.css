@@ -26,7 +26,7 @@ body {
     padding: 26px 47px;
     border-radius: 0 0 0 16px;
     box-shadow: -2px -4px 33px -19px;
-    z-index: -1;
+    
 }
 .third-grid {
     grid-area: 2 / 2 / 3 / 3;
